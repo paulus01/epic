@@ -1,0 +1,15 @@
+.idea
+.envrc
+.terraform
+plan.terraform
+terraform.tfstate
+*.backup
+*.decrypted
+*.iml
+kops/cluster.yaml
+override.tf
+.DS_Store
+suppression-list.zip
+.terraform.lock.hcl
+
+.terra*
